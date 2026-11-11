@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+sounddevice>=0.4.6     # capture du microphone (nécessite PortAudio)
+reportlab>=4.0         # uniquement pour générer le rapport PDF
+pytest>=7.0            # uniquement pour lancer les tests
